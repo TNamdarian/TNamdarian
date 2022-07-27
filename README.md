@@ -1,9 +1,9 @@
 ## "Hello, World! 👋"
 
 
-👩🏼‍💻 Currently working as Tutor at Durham Univeristy
+-- 👩🏼‍💻 Currently working as Tutor at Durham Univeristy
 
-📚 Studied UX, UI Design & Software Development
+-- 📚 Studied UX, UI Design & Software Development
 ---
 
 ### Programming Languages
