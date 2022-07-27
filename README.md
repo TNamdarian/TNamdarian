@@ -61,7 +61,7 @@
 - Milestone 1 - Sara Namdarian: [Repo](https://github.com/TNamdarian/saranamdarian) | [Website](https://tnamdarian.github.io/saranamdarian/)
 - Milestone 2 - NamaStay: [Repo](https://github.com/TNamdarian/NamaStay) | [Website](https://tnamdarian.github.io/NamaStay/)
 - Milestone 3 - Seven Terraces: [Repo](https://github.com/TNamdarian/seven-terraces) | [Website](https://seven-terraces.herokuapp.com/)
-- Milestone 4 - Sran Collection: [Repo](https://github.com/TNamdarian/saran-collection) | [Website](https://saran-collection.herokuapp.com/)
+- Milestone 4 - Saran Collection: [Repo](https://github.com/TNamdarian/saran-collection) | [Website](https://saran-collection.herokuapp.com/)
 
 ### Group Projects
 - Women in Tech Hackathon - Coding Sisters: [Repo](https://github.com/TNamdarian/women-in-tech-hackathon) | [Website](https://franciskadtt.github.io/women-in-tech-hackathon/)
