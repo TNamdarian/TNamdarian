@@ -55,7 +55,7 @@
 
 ### Design | Wireframes
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma%20-%7A4495.svg?&style=for-the-badge&logo=Figma&logoColor=7A4495)
+![Figma](https://img.shields.io/badge/Figma%20-%FF8FB1.svg?&style=for-the-badge&logo=Figma&logoColor=F2DF3A)
 
 ### Main Projects
 - Milestone 1 - Sara Namdarian: [Repo](https://github.com/TNamdarian/saranamdarian) | [Website](https://tnamdarian.github.io/saranamdarian/)
