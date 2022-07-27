@@ -3,7 +3,6 @@
 
 👩🏼‍💻 Currently working as Tutor at Durham Univeristy
 
-
 📚 Studied UX, UI Design & Software Development
 ---
 
